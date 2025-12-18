@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on designing an interactive **Hospital Emergency Room Dashboard** using Microsoft Excel.  
-The aim of the project is to demonstrate end-to-end Excel data analysis skills, including data cleaning, pivot-based analysis, and dashboard creation for operational monitoring.
+The aim of the project is to demonstrate end-to-end Excel data analysis skills, including data cleaning by using power query, data modeling by using power pivot, pivot-based analysis, and dashboard creation for operational monitoring.
 
 This is a **process-oriented project**, highlighting *how the analysis was performed* rather than drawing business conclusions.
 
@@ -13,7 +13,7 @@ This is a **process-oriented project**, highlighting *how the analysis was perfo
 - Clean and transform data for analysis
 - Create pivot tables for structured reporting
 - Design an interactive dashboard for easy monitoring
-- Practice real-world Excel dashboarding techniques used in MIS roles
+
 
 ---
 
@@ -22,6 +22,7 @@ This is a **process-oriented project**, highlighting *how the analysis was perfo
 - **Power Query** – Data cleaning & transformation
 - **Pivot Tables & Pivot Charts**
 - **Slicers & Filters**
+- **power pivot**
 - **Excel Dashboard Design**
 
 ---
@@ -87,3 +88,4 @@ These charts help demonstrate time-based analysis techniques in Excel.
 ---
 
 ## 📁 Project Structure
+
